@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: black;
+    
 }
 a{
   text-decoration: none;  
@@ -9,4 +10,19 @@ a{
 h1{
     text-align: center;
     background-color: blueviolet;
+}
+p{
+    color: white;
+background-color: aqua;
+}
+
+
+
+
+
+
+
+
+footer p {
+    text-align: center;
 }
